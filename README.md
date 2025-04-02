@@ -51,3 +51,6 @@ CREATE TABLE peliculas (
 
 ### Obtener recomendaciones
 `GET http://127.0.0.1:8000/recomendar/?descripcion=Un hombre busca venganza después de perder a su familia`
+
+### Consultar documentación Swagger 
+`http://127.0.0.1:8000/docs`
