@@ -1,4 +1,4 @@
-# ¿Por qué usar pgvector?
+# TEST Neurotry
 Permite almacenar embeddings y hacer búsquedas por similitud con cosine similarity o L2 distance.
 - Escalabilidad: Se integra con bases de datos existentes y soporta índices optimizados para búsquedas rápidas.
 - Persistencia: No perderemos datos ni embeddings al reiniciar el servidor.
